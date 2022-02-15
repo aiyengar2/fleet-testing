@@ -1,3 +1,0 @@
-name: gatekeeper-crd
-helm:
-  chart: https://charts.rancher.io/assets/rancher-gatekeeper/rancher-gatekeeper-crd-100.0.1+up3.6.0.tgz
