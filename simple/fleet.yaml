@@ -1,0 +1,7 @@
+diff:
+  comparePatches:
+  - apiVersion: v1
+    kind: ConfigMap
+    name: arvind-fleet-test
+    operations:
+    - {"op":"remove", "path":"/data"}
