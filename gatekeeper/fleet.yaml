@@ -1,4 +1,4 @@
 helm:
   chart: https://charts.rancher.io/assets/rancher-gatekeeper/rancher-gatekeeper-100.0.1+up3.6.0.tgz
 dependsOn:
-  name: gatekeeper-crd
+- name: gatekeeper-crd
